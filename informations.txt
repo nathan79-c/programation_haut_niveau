@@ -1,0 +1,45 @@
+Informations des étudiants:
+Student{
+	 name = 'John',
+	 lastName = 'kasongo',
+	 firstName = 'Doe',
+	 matriculate = '23Jk001',
+	 birthdate = 'null',
+	 gender = M,
+	 mention = 'Bien',
+	 totalGeneral = 170.0
+}
+Student{
+	 name = 'Jane',
+	 lastName = 'patience',
+	 firstName = 'Smith',
+	 matriculate = '23Jp002',
+	 birthdate = 'null',
+	 gender = F,
+	 mention = 'Assez bien',
+	 totalGeneral = 150.0
+}
+Informations sur les professeurs:
+Teacher {
+	name = 'Jane Doe'
+	lastName = 'Doe'
+	firstName = 'Jane'
+	Grade = 'Dr'
+	birthdate = 'null'
+	gender = F
+	cours = [
+		Mathématiques
+		Physique
+	]
+}
+Teacher {
+	name = 'Pierre Dupont'
+	lastName = 'Dupont'
+	firstName = 'Pierre'
+	Grade = 'CT'
+	birthdate = 'null'
+	gender = M
+	cours = [
+		Chimie
+	]
+}
